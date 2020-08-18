@@ -1,5 +1,5 @@
 #include <iostream>
-using namesoace std;
+using namespace std;
 
 int main(){
   cout << "hello world!" <<endl;
